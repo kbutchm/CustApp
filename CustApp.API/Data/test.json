@@ -1,0 +1,222 @@
+{
+	"User": {
+		"Id": "",
+		"FirstName": "Hina",
+		"LastName": "Shah",
+		"Email": "GETHINA@YAHOO.COM",
+		"ExternalReference": "C0428671",
+		"SendWelcomeEmailIfCreated": "false",
+		"DisabledAt": "",
+		"Version": "",
+		"Websites": [{
+			"Id": "oticon_us",
+			"LegalEntity": "US50",
+			"Role": "Full Access",
+			"CustomerAccounts": [{
+				"Id": "0000001",
+				"Role": "Extended Access",
+				"Catalogs": "",
+				"InvoiceAccounts": [{
+					"Id": "0000001",
+					"Role": "",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": "",
+						"Catalogs": ""
+					},
+					{
+						"Id": "0000002",
+						"Role": ""
+					}]
+				},
+				{
+					"Id": "0000002",
+					"Role": "",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": ""
+					},
+					{
+						"Id": "0000002",
+						"Role": ""
+					}]
+				},
+				{
+					"Id": "0000140",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001272",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": "Limited Access"
+					}]
+				}]
+			},
+			{
+				"Id": "0000002",
+				"Role": "Full Access",
+				"Catalogs": "",
+				"InvoiceAccounts": [{
+					"Id": "0000001",
+					"Role": "",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": ""
+					},
+					{
+						"Id": "0000002",
+						"Role": ""
+					}]
+				},
+				{
+					"Id": "0000002",
+					"Role": "",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": ""
+					},
+					{
+						"Id": "0000002",
+						"Role": ""
+					},
+					{
+						"Id": "0000098027",
+						"Role": ""
+					}]
+				},
+				{
+					"Id": "0000140",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001272",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0000001",
+						"Role": "Limited Access"
+					}]
+				}]
+			},
+			{
+				"Id": "0519917",
+				"Role": "Full Access",
+				"Catalogs": "",
+				"InvoiceAccounts": [{
+					"Id": "0519917",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001290",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001291",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001292",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001293",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001294",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001297",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001299",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				},
+				{
+					"Id": "4001311",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "0519917",
+						"Role": "Limited Access"
+					}]
+				}]
+			},
+			{
+				"Id": "2308059",
+				"Role": "Full Access",
+				"Catalogs": "",
+				"InvoiceAccounts": [{
+					"Id": "10256",
+					"Role": "Limited Access",
+					"Catalogs": "",
+					"SellToAccounts": [{
+						"Id": "2308059",
+						"Role": "Limited Access"
+					}]
+				}]
+			}]
+		}]
+	},
+	"MessageType": "UpsertUser",
+	"Id": "cfd49fb1-7ef1-47b0-8306-f4edfd32905b"
+}
